@@ -13,6 +13,6 @@ package it.unisa.ciao;
 public class Ciao {
 
     public static void main(String[] args) {
-        
+        Sytem.out.println("hello");
     }
 }
