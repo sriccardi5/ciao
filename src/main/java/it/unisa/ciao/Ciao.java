@@ -5,9 +5,9 @@
 package it.unisa.ciao;
 
 /**
- *
- * @author mainuser
- */
+ * */
+
+// ciao andrea
 public class Ciao {
 
     public static void main(String[] args) {
