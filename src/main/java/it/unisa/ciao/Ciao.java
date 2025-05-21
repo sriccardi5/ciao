@@ -4,6 +4,8 @@
 
 package it.unisa.ciao;
 
+//Ciao Simone
+
 /**
  *
  * @author mainuser
@@ -11,6 +13,6 @@ package it.unisa.ciao;
 public class Ciao {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
     }
 }
